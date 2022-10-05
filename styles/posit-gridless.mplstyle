@@ -1,5 +1,3 @@
-# Set color cycle: blue, green, yellow, red, violet, gray
-
 # Set default figure size
 figure.figsize : 3.5, 2.625
 
@@ -25,7 +23,7 @@ xtick.top : False
 ytick.right : False
 
 # Remove legend frame
-legend.frameon : True
+legend.frameon : False
 
 # Always save as "tight"
 savefig.bbox : tight

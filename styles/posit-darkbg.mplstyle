@@ -1,32 +1,31 @@
+# Set color cycle: blue, green, yellow, red, violet, gray
+
 # Set default figure size
 figure.figsize : 3.5, 2.625
 
 # Set axes
 axes.prop_cycle : cycler("color", ["447099", "EE6331", "404041", "419599", "72994E", "9A4665"])
 axes.axisbelow: True
-axes.edgecolor: white
-axes.facecolor: E5E5E5
-axes.grid: True
-axes.labelcolor: 404041
+axes.edgecolor: FFFFFF
+axes.facecolor: black
+axes.grid: False
+axes.labelcolor: FFFFFF
 axes.labelsize: large
 axes.linewidth: 1.0
 
 axes.titlesize: x-large
 figure.edgecolor: 0.50
-figure.facecolor: white
+figure.facecolor: black
 font.size: 10.0
-grid.color: white
-grid.linestyle: -
-patch.antialiased: True
-patch.edgecolor: EEEEEE
-patch.facecolor: 404041
-patch.linewidth: 0.5
-xtick.color: 404041
+xtick.color: FFFFFF
 xtick.direction: out
-ytick.color: 404041
+ytick.color: FFFFFF
 ytick.direction: out
 xtick.top : False
 ytick.right : False
+
+text.color : FFFFFF
+patch.edgecolor : FFFFFF
 
 # Remove legend frame
 legend.frameon : False
