@@ -27,6 +27,8 @@ xtick.color: 404041
 xtick.direction: out
 ytick.color: 404041
 ytick.direction: out
+xtick.top : False
+ytick.right : False
 
 # Remove legend frame
 legend.frameon : False
