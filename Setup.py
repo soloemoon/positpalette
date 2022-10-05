@@ -38,7 +38,7 @@ setup(
     version='1.0.0',
     author="Solomon Moon",
     author_email="soloemoon@gmail.com",
-    description="posit palettes,
+    description="posit palettes",
     long_description="Generate Matplotlib, Seaboarn and Plotnine plots with Posit styling",
     long_description_content_type='text/markdown',
     license="MIT",
