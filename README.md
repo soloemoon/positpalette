@@ -1,3 +1,10 @@
+# Installation
+
+```
+Type the following in the terminal:
+pip install git+https://github.com/soloemoon/positpalette@main
+```
+
 ## Posit Python
 Posit Color Palette library for Python (Matplotlib/Plotnine)
 
